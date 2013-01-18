@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Cacharreo</string>
+    <string name="dummy_content">HAGASE LA LUZ</string>
+    <string name="dummy_content2">APAGA!</string>
+    <string name="dummy_button">Cobarde!!</string>
+
+</resources>
